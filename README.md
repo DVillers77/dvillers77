@@ -1,4 +1,4 @@
-![Systems Architect Banner](designing-for-people-md.webp)
+![Systems Architect Banner](designing-for-people-md.jpg)
 
 🛠️ Design Technologist | Outcome-Driven Architecture "For 20 years, I analyzed human systems to solve physical
 challenges. Now, I apply that same diagnostic rigor and intuitive empathy to Digital Engineering."
