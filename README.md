@@ -1,5 +1,13 @@
 ![Systems Architect Banner](designing-for-people-md.jpg)
 
+I view code as a living environment—a space where mathematical rigor and artistic empathy weave together to support the
+human experience.
+
+🌿 The Mission: Human-First Architecture My work is informed by two decades of clinical problem-solving. In my previous
+career, I "debugged" human ergonomics; now, I apply that same Diagnostic Empathy to the web. I believe that a Design
+System shouldn't just be a collection of components—it should be a healthy, predictable environment that accommodates
+the variance of human motor skills and perceptual needs.
+
 🛠️ Design Technologist | Outcome-Driven Architecture "For 20 years, I analyzed human systems to solve physical
 challenges. Now, I apply that same diagnostic rigor and intuitive empathy to Digital Engineering."
 
